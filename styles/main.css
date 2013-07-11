@@ -1,7 +1,30 @@
+* {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 .container {
   width: 1000px;
   margin-right: auto;
   margin-left: auto;
   right: 0;
   left: 0;
+  background-color: #EEE;
+  min-height: 100%;
+}
+
+nav li {
+  list-style-type: none;
+  display: inline-block;
+  margin: 0 20px;
+  cursor: pointer;
+}
+
+nav ul {
+  margin: 0;
 }
