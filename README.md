@@ -1,2 +1,2 @@
-1t6web
+Web client-side code for 1t6.ca
 ======
