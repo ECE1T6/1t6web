@@ -12,7 +12,7 @@
       </nav>
     <?php 
  			//chooses a random number 
- 			$num = Rand (0,30) ; 
+ 			$num = Rand (0,29) ; 
  
  			//starts the random quote switch loop 
  			switch ($num) 
@@ -126,7 +126,7 @@
  				break; 
 
 				case 25: 
-				echo "'... works smoothly as my <REDACTED> on a Saturday morning.' - Steven Hawkings, on string theory"; 
+				echo "'... works smoothly as my balls on a Saturday morning.' - Steven Hawkings, on string theory"; 
  				break; 
 
 				case 26: 
@@ -134,20 +134,16 @@
  				break; 
 
 				case 27: 
-				echo "'Wheely bad joke.' - Steven Hawkings' live-in nurse."; 
- 				break; 
-
-				case 28: 
-				echo "'I hear Stephen Hawking is really good at <REDACTED> Lol' - Albert Einstein, 
+				echo "'I hear Stephen Hawking is really good at fingering Lol' - Albert Einstein, 
 					when asked about Hawking's contributions to Science"; 
  				break; 
 
-				case 29: 
+				case 28: 
 				echo "'I would leave the thread at this point but I know it wouldn't save me' - 
 					Lab7 C program, immediately before seg faulting"; 
  				break;
 
-				case 30: 
+				case 29: 
 				echo "'lol we should scrape the entire chat history...' - Edward Snowden"; 
  				break;  
  				} 
