@@ -18,32 +18,32 @@
  			switch ($num) 
  				{ 
  				case 0: 
- 				echo ""Don't think about dicks. Don't lose yourself to dicks" - John F Kennedy, after avoiding a Russian missile strike"; 
+ 				echo "'Don't think about dicks. Don't lose yourself to dicks' - John F Kennedy, after avoiding a Russian missile strike"; 
  				break; 
  
  				case 1: 
- 				echo ""My very first PC was a pentium 166, and we did some crazy shit and OC'd it to 200Mhz" - Beyonce Knowles, after giving birth to first child
+ 				echo "'My very first PC was a pentium 166, and we did some crazy shit and OC'd it to 200Mhz' - Beyonce Knowles, after giving birth to first child
 "; 
  				break; 
  
 				case 2: 
- 				echo ""Whats a good linux based gui that's text based?" - LeBron James, after winning his second championship"; 
+ 				echo "'Whats a good linux based gui that's text based?' - LeBron James, after winning his second championship"; 
  				break; 
  
  				case 3: 
- 				echo "Today is your lucky day."; 
+ 				echo "'Is either the Hart House gym or the Athletic Centre open to us these days?' - Kanye West, after having a little too much to drink"; 
  				break; 
  
  				case 4: 
-				echo "Fead the birds."; 
+				echo "'Dicks, dicks, dicks' - Charles Dickens, self explanatory."; 
  				break; 
 			
 				case 5: 
-				echo "Fead the birds."; 
+				echo "'Yay new Linux nvidia drivers' - Nvidia's official correspondence with Linus Torvalds"; 
  				break; 
 
 				case 6: 
-				echo "Fead the birds."; 
+				echo "'Upfront has always been relatively innocuous.' - George Bush, on the Invasion of Iraq"; 
  				break; 
 
 				case 7: 
