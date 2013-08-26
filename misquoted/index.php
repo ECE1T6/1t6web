@@ -12,7 +12,7 @@
       </nav>
     <?php 
  			//chooses a random number 
- 			$num = Rand (0,29) ; 
+ 			$num = Rand (0,30) ; 
  
  			//starts the random quote switch loop 
  			switch ($num) 
@@ -145,6 +145,10 @@
 
 				case 29: 
 				echo "'lol we should scrape the entire chat history...' - Edward Snowden"; 
+ 				break;  
+
+				case 30: 
+				echo "'C'mon, you know sexual frustration is my thaaang' - Vincent van Gogh"; 
  				break;  
  				} 
  		?>
