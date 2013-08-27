@@ -5,11 +5,10 @@
   </head>
   <body>
     <div class="container">
-      <nav>
-        <ul>
-          <li><a href="http://1t6.ca">Home</a></li>
-        </ul>
-      </nav>
+        <?php
+            $root = $_SERVER["DOCUMENT_ROOT"];
+            include_once($root . "/header.php");
+        ?>
     <?php 
  			//chooses a random number 
  			$num = Rand (0,30) ; 
