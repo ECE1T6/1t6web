@@ -11,7 +11,7 @@
         ?>
     <?php 
  			//chooses a random number 
- 			$num = Rand (0,30) ; 
+ 			$num = Rand (0,33) ; 
  
  			//starts the random quote switch loop 
  			switch ($num) 
@@ -149,6 +149,18 @@
 				case 30: 
 				echo "'C'mon, you know sexual frustration is my thaaang' - Vincent van Gogh"; 
  				break;  
+ 				
+ 				case 31:
+ 				echo "'Interesting, I've been dipping into that as well.' - Sigmund Freud, on Oedipus complex"
+ 				break;
+ 				
+ 				case 32;
+ 				echo "'I imagine the author turned into an eagle as soon as he pressed enter and then flew away' - President Ronald Reagan, on the Declaration of Independence"
+ 				break;
+ 				
+ 				case 33;
+ 				echo "'Got to think of a good person to be saying that quote...' - J.K. Rowling, while reading 50 Shades of Grey"
+ 				break;
  				} 
  		?>
   </body>
