@@ -154,13 +154,18 @@
  				echo "'Interesting, I've been dipping into that as well.' - Sigmund Freud, on Oedipus complex"
  				break;
  				
- 				case 32;
+ 				case 32:
  				echo "'I imagine the author turned into an eagle as soon as he pressed enter and then flew away' - President Ronald Reagan, on the Declaration of Independence"
  				break;
  				
- 				case 33;
+ 				case 33:
  				echo "'Got to think of a good person to be saying that quote...' - J.K. Rowling, while reading 50 Shades of Grey"
  				break;
+ 				
+ 				case 34:
+ 				echo "'That sounded better in my head...' - Hans Fritzsche, at Nuremburg Trials"
+ 				break;
+ 				
  				} 
  		?>
   </body>
