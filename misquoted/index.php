@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" href="/styles/main.css">
+       <link rel="stylesheet" href="/styles/main.css">
+       <script src="/js/jquery-1.10.2.js"></script>
+       <script src="/js/init.js"></script>
+       <script src="/js/utils.js"></script>
   </head>
   <body>
     <div class="container">
