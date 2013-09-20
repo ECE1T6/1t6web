@@ -1,0 +1,13 @@
+.gotu_img {
+    display: inline-block;
+    border: solid 1px #000;
+    max-height: 100%;
+    padding-right:15px;
+}
+
+.gotu_container {
+    height: 400px;
+    width: 100%;
+    overflow-x: auto;
+    white-space: nowrap;
+}
